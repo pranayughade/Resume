@@ -115,23 +115,18 @@ body{
     border-radius: 12px;
 }
 .js-progress{
-    width: 70%;
+    width: 20%;
 }
 .ps-progress{
-    width: 90%;
-}
-.j-progress{
-    width: 85%;
-}
-.c-progress{
     width: 40%;
 }
-.n-progress{
-    width: 63%;
+.c-progress{
+    width: 70%;
 }
-.w-progress{
-    width: 78%;
+.h-progress{
+    width: 70%;
 }
+
 
 
 .skill-title{
@@ -152,15 +147,6 @@ body{
     padding: .4rem 0;
 }
 
-.references-section li{
-    color: #ccc;
-    padding: .2rem 0;
-}
-.references-section li i{
-    padding-right: .5rem;
-    font-size: 1.2rem;
-    color: #2D9CDB;
-}
 
 .right-main-content{
     padding: 2rem 3rem;
